@@ -1,0 +1,15 @@
+.first {
+height: 300px;
+background-color: #00a2e8;
+}
+
+.second {
+height: 300px;
+background-color: #3f48cc;
+}
+
+.iceberg img {
+width: 200px; 
+margin-top: -375px;
+margin-left: 43%; 
+}
